@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <h3><b>Morse project Readme</b></h3>
+  <h3><b>MyEnumarable project Readme</b></h3>
 
 </div>
 
@@ -30,11 +30,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [JavaScript capstone project] <a name="about-project"></a>
+# 📖 [My enumerable] <a name="about-project"></a>
 
 
 
-**[Space Traveler's Hub]** this project provide users to decode message code we use 3 methods to convert word , character and messsage.
+**[My enumerable]** this project provide users loop the list of number and check some statement if is truee or false.
 
 ## 🛠 Built With <a name="built-with"></a>
 Ruby
@@ -52,7 +52,7 @@ Ruby
 
 ### Key Features <a name="key-features"></a>
 
-- **[Allow users to convert morse code in string alphabet]**
+- **[Allow users to check list value]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -76,7 +76,7 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-https://github.com/julzedz/Morse.git
+https://github.com/fredo509/myenumerable.git
 ```
 
 ### Install
@@ -120,7 +120,7 @@ exemnple : Decode_char(".-")
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[WE will convert aphabet code in morse code]**
+- [ ] **[WE will add more enumerable methods]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +146,7 @@ If you like this project give me a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I want to thank my coding partner Fredo st fleur who help me a lot to complete this project.
+I want to thank my coding partner Jules Edozie who help me a lot to complete this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
