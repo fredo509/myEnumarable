@@ -1,6 +1,7 @@
 require_relative './myenumerable'
 
 class MyList
+  attr_reader :list
   include MyEnumerable
 
   def initialize(*list)
@@ -12,7 +13,6 @@ class MyList
       yield @list[i]
     end
   end
-  attr_reader :list
 end
 
 list = MyList.new(1, 2, 3, 4)
