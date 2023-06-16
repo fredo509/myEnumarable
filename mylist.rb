@@ -2,6 +2,7 @@ require_relative './myenumerable'
 
 class MyList
   attr_reader :list
+
   include MyEnumerable
 
   def initialize(*list)
